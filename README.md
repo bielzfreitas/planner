@@ -5,14 +5,14 @@
 - Insomnia para testes
 
 #### Json para testes
-{
-  "destionation": "Florianópolis, SC",
-  "starts_at": "2024-06-25T21:51:54.7342",
-  "ends_at": "2024-06-25T21:51:54.7342",
-  "emails_to_invite": ["convidado@rocketseat.com"],
-  "owner_name": "Fernanda",
-  "owner_email": "fernanda@rocketseat.com"
-}
+-{
+-  "destionation": "Florianópolis, SC",
+-  "starts_at": "2024-06-25T21:51:54.7342",
+-  "ends_at": "2024-06-25T21:51:54.7342",
+-  "emails_to_invite": ["convidado@rocketseat.com"],
+-  "owner_name": "Fernanda",
+-  "owner_email": "fernanda@rocketseat.com"
+-}
 
 ------------------------------------------------------------------------------------------
 ## Requisitos
